@@ -185,3 +185,6 @@
   /* .cybr-btn:nth-of-type(2) {
     --primary-hue: 260;
   } */
+   .cybr-btn-open {
+    --primary-hue: 0;
+  } 
